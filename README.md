@@ -1,1 +1,1 @@
-# Hangman
+# Hangman game ready to play
